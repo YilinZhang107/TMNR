@@ -1,5 +1,9 @@
 # TMNR
-This repository contains the code of our IJCAI 2024 paper Trusted Multi-view Learning with Label Noise.
+This repository contains the code of our paper 
+```
+Cai Xu, Yilin Zhang, Ziyu Guan, and Wei Zhao. "Trusted Multi-view Learning with Label Noise."
+In Proceedings of the 33rd International Joint Conference on Artificial Intelligence, IJCAI. 2024.
+```
 
 # Methodology for Generating IDN Labels
 Section B.1 of the Appendix within the repository describes how new labels are selected for samples that will have their labels destroyed.
