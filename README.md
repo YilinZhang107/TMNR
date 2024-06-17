@@ -12,6 +12,8 @@ The process of selecting the samples of to-be-destroyed labels is as follows: fi
 
 In our experiments, using the **UCI** dataset as an example, 93.5% of the corrupted samples in the final generated dataset containing 10% instance-dependent noise labels come from the top 10% of the uncertainty ranking mentioned above, and 72.67% of the corrupted samples in the dataset containing 30% instance-dependent noise labels come from the top 30% of the uncertainty ranking.
 
+# More Datasets
+You can find more processed multi-view feature datasets from this repository: https://github.com/YilinZhang107/Multi-view-Datasets
 
 # Citation
 If you find our work helpful, please consider citing the following papers
