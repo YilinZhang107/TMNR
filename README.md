@@ -18,12 +18,18 @@ You can find more processed multi-view feature datasets from this repository: ht
 # Citation
 If you find our work helpful, please consider citing the following papers
 ```
-@misc{xu2024trusted,
-      title={Trusted Multi-view Learning with Label Noise}, 
-      author={Cai Xu and Yilin Zhang and Ziyu Guan and Wei Zhao},
-      year={2024},
-      eprint={2404.11944},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{xu2024trusted,
+  title     = {Trusted Multi-view Learning with Label Noise},
+  author    = {Xu, Cai and Zhang, Yilin and Guan, Ziyu and Zhao, Wei},
+  booktitle = {Proceedings of the Thirty-Third International Joint Conference on
+               Artificial Intelligence, {IJCAI-24}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Kate Larson},
+  pages     = {5263--5271},
+  year      = {2024},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2024/582},
+  url       = {https://doi.org/10.24963/ijcai.2024/582},
 }
 ```
