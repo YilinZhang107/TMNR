@@ -23,13 +23,8 @@ If you find our work helpful, please consider citing the following papers
   author    = {Xu, Cai and Zhang, Yilin and Guan, Ziyu and Zhao, Wei},
   booktitle = {Proceedings of the Thirty-Third International Joint Conference on
                Artificial Intelligence, {IJCAI-24}},
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},
-  editor    = {Kate Larson},
   pages     = {5263--5271},
   year      = {2024},
-  month     = {8},
-  note      = {Main Track},
-  doi       = {10.24963/ijcai.2024/582},
-  url       = {https://doi.org/10.24963/ijcai.2024/582},
+  month     = {8}
 }
 ```
