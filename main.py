@@ -23,8 +23,8 @@ args = parser.parse_args()
 # default
 noise_ratios = np.arange(0.0, 0.55, 0.10)
 args.k = 5
-args.lamb = 0.01
-args.gamma = 10000
+args.lamb = 0.01  # denotes the hyperparameter \beta in equation 14 of the article
+args.gamma = 10000  # denotes the hyperparameter \gamma in equation 14 of the article
 args.epochs = 100
 
 if args.dataset == "UCI":
